@@ -41,7 +41,7 @@ python main.py
 ```
 
 ## 🖼️ Assets Info
-Place your screenshots in:
+
 ```
 assets/images/
 ```
