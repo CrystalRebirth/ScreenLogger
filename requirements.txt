@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+pywin32==306
+pillow==10.3.0
+requests==2.31.0
+pyinstaller==6.12.0
+pygame==2.6.1
